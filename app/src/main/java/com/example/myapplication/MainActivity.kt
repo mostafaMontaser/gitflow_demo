@@ -11,4 +11,5 @@ class MainActivity : AppCompatActivity() {
     fun testF1(){
         println("Test F1")
     }
+    fun testF2(){}
 }
